@@ -1,5 +1,6 @@
+#read a list
 lst = ['2', '4', '6']
-
+#map each value n int
 final_data = map(int, lst)
 
 a = b = c, t, u = final_data
